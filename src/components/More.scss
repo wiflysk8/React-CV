@@ -1,0 +1,25 @@
+.card {
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+  border-radius: 12px;
+  background-color: rgba(240, 248, 255, 0.241);
+}
+
+.c-skills {
+  text-align: center;
+  width: 250px;
+  height: 200px;
+  border-radius: 12px;
+  background-color: rgba(240, 248, 255, 0.241);
+  word-wrap: break-word;
+  margin-bottom: 80px;
+  column-count: 2;
+ padding: 0px;
+ margin: 40px;
+
+ p{
+   margin: 0px;
+   line-height: 40px;
+ }
+}
